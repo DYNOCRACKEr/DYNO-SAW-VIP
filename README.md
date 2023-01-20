@@ -6,7 +6,7 @@ pkg install mechanize
 
 pkg install python
 
-pkg install python2
+pip install mechanize
 
 pkg install git
 
@@ -18,7 +18,7 @@ git clone https://github.com/DYNOCRACKEr/DYNO-SAW-VIP
 
 cd DYNO-SAW-VIP
 
-python DYNOxVIPxENC.py
+python DYNOxOKENWAxVIP.pyc
 
 
 ◇◇◇◇◇◇◇♡♡♡♡♡♡♡♡◇◇◇◇◇◇◇◇
