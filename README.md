@@ -20,3 +20,7 @@ cd DYNO-SAW-VIP
 
 python DYNOxVIPxENC.py
 
+
+◇◇◇◇◇◇◇♡♡♡♡♡♡♡♡◇◇◇◇◇◇◇◇
+
+The tool is not free its paid so you need my promtion chat me in telegram for more✓ -> @i4m_DYNO
